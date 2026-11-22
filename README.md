@@ -15,4 +15,4 @@ Real-time public transit departures from any stop, for Garmin watches.
 
 
 
-[![LiveBus Coverage Map](assets/livebus-map.jpg)](https://livebus.ploa33.workers.dev/map)
+[![LiveBus Coverage Map](assets/livebus-map.png)](https://livebus.ploa33.workers.dev/map)
